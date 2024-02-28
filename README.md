@@ -9,7 +9,7 @@ This is a repository where I will post all of my side projects. I am currently w
 - [Portfolio Optimizer](https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/portfolio_optimizer.ipynb')
 - [Malliavin Calculus for Option Greeks Estimation]('https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/malliavin_calculus_for_option_greeks_estimation.ipynb')
 
-Here is a Python code snippet you can try out on a `.ipynb` file (I recommend using Python 3). The relevant project can be found [here]('https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/malliavin_calculus_for_option_greeks_estimation.ipynb'):
+To get a sense of what you can expect, Here is a Python code snippet you can try out on a `.ipynb` file (I recommend using Python 3).
 
 ```Python
 import time as tm
