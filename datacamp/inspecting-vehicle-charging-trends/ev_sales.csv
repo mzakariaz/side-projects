@@ -1,0 +1,496 @@
+Vehicle,year,sales
+Chevy Volt,2011,7671
+Chevy Volt,2012,23461
+Chevy Volt,2013,23094
+Chevy Volt,2014,18805
+Chevy Volt,2015,15393
+Chevy Volt,2016,24739
+Chevy Volt,2017,20349
+Chevy Volt,2018,18306
+Chevy Volt,2019,4915
+Nissan Leaf,2011,9674
+Nissan Leaf,2012,9819
+Nissan Leaf,2013,22610
+Nissan Leaf,2014,30200
+Nissan Leaf,2015,17269
+Nissan Leaf,2016,14006
+Nissan Leaf,2017,11230
+Nissan Leaf,2018,14715
+Nissan Leaf,2019,12365
+Smart ED,2011,342
+Smart ED,2012,139
+Smart ED,2013,923
+Smart ED,2014,2594
+Smart ED,2015,1387
+Smart ED,2016,657
+Smart ED,2017,544
+Smart ED,2018,1219
+Smart ED,2019,680
+Mitsubishi I EV,2011,76
+Mitsubishi I EV,2012,588
+Mitsubishi I EV,2013,1029
+Mitsubishi I EV,2014,196
+Mitsubishi I EV,2015,115
+Mitsubishi I EV,2016,94
+Mitsubishi I EV,2017,6
+Mitsubishi I EV,2018,NA
+Mitsubishi I EV,2019,NA
+BMW Active E,2011,NA
+BMW Active E,2012,673
+BMW Active E,2013,NA
+BMW Active E,2014,NA
+BMW Active E,2015,NA
+BMW Active E,2016,NA
+BMW Active E,2017,NA
+BMW Active E,2018,NA
+BMW Active E,2019,NA
+Prius PHEV,2011,NA
+Prius PHEV,2012,12749
+Prius PHEV,2013,12088
+Prius PHEV,2014,13264
+Prius PHEV,2015,4191
+Prius PHEV,2016,2474
+Prius PHEV,2017,20936
+Prius PHEV,2018,27595
+Prius PHEV,2019,23630
+Ford Focus EV,2011,NA
+Ford Focus EV,2012,683
+Ford Focus EV,2013,1738
+Ford Focus EV,2014,1964
+Ford Focus EV,2015,1582
+Ford Focus EV,2016,901
+Ford Focus EV,2017,1817
+Ford Focus EV,2018,560
+Ford Focus EV,2019,NA
+Honda Fit EV,2011,NA
+Honda Fit EV,2012,93
+Honda Fit EV,2013,569
+Honda Fit EV,2014,407
+Honda Fit EV,2015,2
+Honda Fit EV,2016,NA
+Honda Fit EV,2017,NA
+Honda Fit EV,2018,NA
+Honda Fit EV,2019,NA
+Tesla Model S,2011,NA
+Tesla Model S,2012,2400
+Tesla Model S,2013,19400
+Tesla Model S,2014,16750
+Tesla Model S,2015,26200
+Tesla Model S,2016,30200
+Tesla Model S,2017,26500
+Tesla Model S,2018,25745
+Tesla Model S,2019,15090
+Toyota RAV4 EV,2011,NA
+Toyota RAV4 EV,2012,192
+Toyota RAV4 EV,2013,1005
+Toyota RAV4 EV,2014,1184
+Toyota RAV4 EV,2015,18
+Toyota RAV4 EV,2016,NA
+Toyota RAV4 EV,2017,NA
+Toyota RAV4 EV,2018,NA
+Toyota RAV4 EV,2019,NA
+Ford C-Max Energi,2011,NA
+Ford C-Max Energi,2012,2374
+Ford C-Max Energi,2013,7154
+Ford C-Max Energi,2014,8433
+Ford C-Max Energi,2015,7591
+Ford C-Max Energi,2016,7957
+Ford C-Max Energi,2017,8140
+Ford C-Max Energi,2018,582
+Ford C-Max Energi,2019,NA
+Honda Accord,2011,NA
+Honda Accord,2012,NA
+Honda Accord,2013,526
+Honda Accord,2014,449
+Honda Accord,2015,64
+Honda Accord,2016,NA
+Honda Accord,2017,NA
+Honda Accord,2018,NA
+Honda Accord,2019,NA
+Ford Fusion Energi,2011,NA
+Ford Fusion Energi,2012,NA
+Ford Fusion Energi,2013,6089
+Ford Fusion Energi,2014,11550
+Ford Fusion Energi,2015,9750
+Ford Fusion Energi,2016,15938
+Ford Fusion Energi,2017,9632
+Ford Fusion Energi,2018,8074
+Ford Fusion Energi,2019,7476
+Chevy Spark,2011,NA
+Chevy Spark,2012,NA
+Chevy Spark,2013,560
+Chevy Spark,2014,1145
+Chevy Spark,2015,2629
+Chevy Spark,2016,3035
+Chevy Spark,2017,23
+Chevy Spark,2018,7
+Chevy Spark,2019,NA
+Fiat 500E,2011,NA
+Fiat 500E,2012,NA
+Fiat 500E,2013,260
+Fiat 500E,2014,1503
+Fiat 500E,2015,3477
+Fiat 500E,2016,3737
+Fiat 500E,2017,3336
+Fiat 500E,2018,2250
+Fiat 500E,2019,632
+Porsche Panamera S E-Hybrid,2011,NA
+Porsche Panamera S E-Hybrid,2012,NA
+Porsche Panamera S E-Hybrid,2013,51
+Porsche Panamera S E-Hybrid,2014,879
+Porsche Panamera S E-Hybrid,2015,407
+Porsche Panamera S E-Hybrid,2016,393
+Porsche Panamera S E-Hybrid,2017,18
+Porsche Panamera S E-Hybrid,2018,2036
+Porsche Panamera S E-Hybrid,2019,1958
+Cadillac ELR,2011,NA
+Cadillac ELR,2012,NA
+Cadillac ELR,2013,6
+Cadillac ELR,2014,1310
+Cadillac ELR,2015,1024
+Cadillac ELR,2016,534
+Cadillac ELR,2017,17
+Cadillac ELR,2018,1
+Cadillac ELR,2019,NA
+BMW i3,2011,NA
+BMW i3,2012,NA
+BMW i3,2013,NA
+BMW i3,2014,6092
+BMW i3,2015,11024
+BMW i3,2016,7625
+BMW i3,2017,6276
+BMW i3,2018,6117
+BMW i3,2019,4854
+Mercedes B-Class (B250e),2011,NA
+Mercedes B-Class (B250e),2012,NA
+Mercedes B-Class (B250e),2013,NA
+Mercedes B-Class (B250e),2014,774
+Mercedes B-Class (B250e),2015,1906
+Mercedes B-Class (B250e),2016,632
+Mercedes B-Class (B250e),2017,744
+Mercedes B-Class (B250e),2018,135
+Mercedes B-Class (B250e),2019,9
+BMW i8,2011,NA
+BMW i8,2012,NA
+BMW i8,2013,NA
+BMW i8,2014,555
+BMW i8,2015,2265
+BMW i8,2016,1594
+BMW i8,2017,488
+BMW i8,2018,772
+BMW i8,2019,1102
+VW e-Golf,2011,NA
+VW e-Golf,2012,NA
+VW e-Golf,2013,NA
+VW e-Golf,2014,357
+VW e-Golf,2015,4232
+VW e-Golf,2016,3937
+VW e-Golf,2017,3534
+VW e-Golf,2018,1354
+VW e-Golf,2019,4863
+Kia Soul EV,2011,NA
+Kia Soul EV,2012,NA
+Kia Soul EV,2013,NA
+Kia Soul EV,2014,359
+Kia Soul EV,2015,1015
+Kia Soul EV,2016,1728
+Kia Soul EV,2017,2157
+Kia Soul EV,2018,1134
+Kia Soul EV,2019,114
+Porsche Cayenne S E-Hybrid,2011,NA
+Porsche Cayenne S E-Hybrid,2012,NA
+Porsche Cayenne S E-Hybrid,2013,NA
+Porsche Cayenne S E-Hybrid,2014,112
+Porsche Cayenne S E-Hybrid,2015,1163
+Porsche Cayenne S E-Hybrid,2016,2111
+Porsche Cayenne S E-Hybrid,2017,1574
+Porsche Cayenne S E-Hybrid,2018,1022
+Porsche Cayenne S E-Hybrid,2019,1140
+Mercedes S550 Plug,2011,NA
+Mercedes S550 Plug,2012,NA
+Mercedes S550 Plug,2013,NA
+Mercedes S550 Plug,2014,NA
+Mercedes S550 Plug,2015,118
+Mercedes S550 Plug,2016,550
+Mercedes S550 Plug,2017,666
+Mercedes S550 Plug,2018,96
+Mercedes S550 Plug,2019,371
+Volvo-XC90 Plug In,2011,NA
+Volvo-XC90 Plug In,2012,NA
+Volvo-XC90 Plug In,2013,NA
+Volvo-XC90 Plug In,2014,NA
+Volvo-XC90 Plug In,2015,86
+Volvo-XC90 Plug In,2016,2015
+Volvo-XC90 Plug In,2017,2358
+Volvo-XC90 Plug In,2018,1387
+Volvo-XC90 Plug In,2019,1710
+Tesla Model X,2011,NA
+Tesla Model X,2012,NA
+Tesla Model X,2013,NA
+Tesla Model X,2014,NA
+Tesla Model X,2015,208
+Tesla Model X,2016,19600
+Tesla Model X,2017,21700
+Tesla Model X,2018,26100
+Tesla Model X,2019,19425
+BMW X5,2011,NA
+BMW X5,2012,NA
+BMW X5,2013,NA
+BMW X5,2014,NA
+BMW X5,2015,892
+BMW X5,2016,5995
+BMW X5,2017,5349
+BMW X5,2018,4434
+BMW X5,2019,167
+Hyundai Sonata Plug In,2011,NA
+Hyundai Sonata Plug In,2012,NA
+Hyundai Sonata Plug In,2013,NA
+Hyundai Sonata Plug In,2014,NA
+Hyundai Sonata Plug In,2015,15
+Hyundai Sonata Plug In,2016,3000
+Hyundai Sonata Plug In,2017,2254
+Hyundai Sonata Plug In,2018,460
+Hyundai Sonata Plug In,2019,456
+Audi A3 Plug In,2011,NA
+Audi A3 Plug In,2012,NA
+Audi A3 Plug In,2013,NA
+Audi A3 Plug In,2014,NA
+Audi A3 Plug In,2015,NA
+Audi A3 Plug In,2016,4280
+Audi A3 Plug In,2017,2877
+Audi A3 Plug In,2018,2597
+Audi A3 Plug In,2019,437
+BMW 3-series Plug-In,2011,NA
+BMW 3-series Plug-In,2012,NA
+BMW 3-series Plug-In,2013,NA
+BMW 3-series Plug-In,2014,NA
+BMW 3-series Plug-In,2015,NA
+BMW 3-series Plug-In,2016,880
+BMW 3-series Plug-In,2017,4141
+BMW 3-series Plug-In,2018,2600
+BMW 3-series Plug-In,2019,705
+Mercedes GLE 550e,2011,NA
+Mercedes GLE 550e,2012,NA
+Mercedes GLE 550e,2013,NA
+Mercedes GLE 550e,2014,NA
+Mercedes GLE 550e,2015,NA
+Mercedes GLE 550e,2016,231
+Mercedes GLE 550e,2017,463
+Mercedes GLE 550e,2018,966
+Mercedes GLE 550e,2019,1509
+BMW 7-series Plug-in,2011,NA
+BMW 7-series Plug-in,2012,NA
+BMW 7-series Plug-in,2013,NA
+BMW 7-series Plug-in,2014,NA
+BMW 7-series Plug-in,2015,NA
+BMW 7-series Plug-in,2016,23
+BMW 7-series Plug-in,2017,707
+BMW 7-series Plug-in,2018,339
+BMW 7-series Plug-in,2019,80
+Mercedes C350We,2011,NA
+Mercedes C350We,2012,NA
+Mercedes C350We,2013,NA
+Mercedes C350We,2014,NA
+Mercedes C350We,2015,NA
+Mercedes C350We,2016,171
+Mercedes C350We,2017,817
+Mercedes C350We,2018,1721
+Mercedes C350We,2019,2172
+Chevy Bolt,2011,NA
+Chevy Bolt,2012,NA
+Chevy Bolt,2013,NA
+Chevy Bolt,2014,NA
+Chevy Bolt,2015,NA
+Chevy Bolt,2016,579
+Chevy Bolt,2017,23297
+Chevy Bolt,2018,18019
+Chevy Bolt,2019,16313
+Kia Optima Plug-in,2011,NA
+Kia Optima Plug-in,2012,NA
+Kia Optima Plug-in,2013,NA
+Kia Optima Plug-in,2014,NA
+Kia Optima Plug-in,2015,NA
+Kia Optima Plug-in,2016,NA
+Kia Optima Plug-in,2017,1512
+Kia Optima Plug-in,2018,965
+Kia Optima Plug-in,2019,350
+Hyundai Ioniq EV,2011,NA
+Hyundai Ioniq EV,2012,NA
+Hyundai Ioniq EV,2013,NA
+Hyundai Ioniq EV,2014,NA
+Hyundai Ioniq EV,2015,NA
+Hyundai Ioniq EV,2016,NA
+Hyundai Ioniq EV,2017,432
+Hyundai Ioniq EV,2018,345
+Hyundai Ioniq EV,2019,739
+Chrysler Pacifica Plug-in Hybrid,2011,NA
+Chrysler Pacifica Plug-in Hybrid,2012,NA
+Chrysler Pacifica Plug-in Hybrid,2013,NA
+Chrysler Pacifica Plug-in Hybrid,2014,NA
+Chrysler Pacifica Plug-in Hybrid,2015,NA
+Chrysler Pacifica Plug-in Hybrid,2016,NA
+Chrysler Pacifica Plug-in Hybrid,2017,2981
+Chrysler Pacifica Plug-in Hybrid,2018,7062
+Chrysler Pacifica Plug-in Hybrid,2019,5811
+Cadillac CT6,2011,NA
+Cadillac CT6,2012,NA
+Cadillac CT6,2013,NA
+Cadillac CT6,2014,NA
+Cadillac CT6,2015,NA
+Cadillac CT6,2016,NA
+Cadillac CT6,2017,205
+Cadillac CT6,2018,231
+Cadillac CT6,2019,25
+BMW 5-Series Plug in,2011,NA
+BMW 5-Series Plug in,2012,NA
+BMW 5-Series Plug in,2013,NA
+BMW 5-Series Plug in,2014,NA
+BMW 5-Series Plug in,2015,NA
+BMW 5-Series Plug in,2016,NA
+BMW 5-Series Plug in,2017,3759
+BMW 5-Series Plug in,2018,8664
+BMW 5-Series Plug in,2019,5442
+MINI Countryman S E,2011,NA
+MINI Countryman S E,2012,NA
+MINI Countryman S E,2013,NA
+MINI Countryman S E,2014,NA
+MINI Countryman S E,2015,NA
+MINI Countryman S E,2016,NA
+MINI Countryman S E,2017,475
+MINI Countryman S E,2018,1564
+MINI Countryman S E,2019,494
+Porsche Panamera 4 E-H,2011,NA
+Porsche Panamera 4 E-H,2012,NA
+Porsche Panamera 4 E-H,2013,NA
+Porsche Panamera 4 E-H,2014,NA
+Porsche Panamera 4 E-H,2015,NA
+Porsche Panamera 4 E-H,2016,NA
+Porsche Panamera 4 E-H,2017,NA
+Porsche Panamera 4 E-H,2018,NA
+Porsche Panamera 4 E-H,2019,NA
+Tesla Model 3,2011,NA
+Tesla Model 3,2012,NA
+Tesla Model 3,2013,NA
+Tesla Model 3,2014,NA
+Tesla Model 3,2015,NA
+Tesla Model 3,2016,NA
+Tesla Model 3,2017,1770
+Tesla Model 3,2018,139782
+Tesla Model 3,2019,154840
+Honda Clarity BEV,2011,NA
+Honda Clarity BEV,2012,NA
+Honda Clarity BEV,2013,NA
+Honda Clarity BEV,2014,NA
+Honda Clarity BEV,2015,NA
+Honda Clarity BEV,2016,NA
+Honda Clarity BEV,2017,1126
+Honda Clarity BEV,2018,948
+Honda Clarity BEV,2019,742
+Volvo XC60 Plug In,2011,NA
+Volvo XC60 Plug In,2012,NA
+Volvo XC60 Plug In,2013,NA
+Volvo XC60 Plug In,2014,NA
+Volvo XC60 Plug In,2015,NA
+Volvo XC60 Plug In,2016,NA
+Volvo XC60 Plug In,2017,356
+Volvo XC60 Plug In,2018,2267
+Volvo XC60 Plug In,2019,1682
+Volvo S90 Plug In,2011,NA
+Volvo S90 Plug In,2012,NA
+Volvo S90 Plug In,2013,NA
+Volvo S90 Plug In,2014,NA
+Volvo S90 Plug In,2015,NA
+Volvo S90 Plug In,2016,NA
+Volvo S90 Plug In,2017,112
+Volvo S90 Plug In,2018,437
+Volvo S90 Plug In,2019,407
+Honda Clarity Plug-in,2011,NA
+Honda Clarity Plug-in,2012,NA
+Honda Clarity Plug-in,2013,NA
+Honda Clarity Plug-in,2014,NA
+Honda Clarity Plug-in,2015,NA
+Honda Clarity Plug-in,2016,NA
+Honda Clarity Plug-in,2017,903
+Honda Clarity Plug-in,2018,18602
+Honda Clarity Plug-in,2019,10728
+Mitsubishi Outlander Plug In,2011,NA
+Mitsubishi Outlander Plug In,2012,NA
+Mitsubishi Outlander Plug In,2013,NA
+Mitsubishi Outlander Plug In,2014,NA
+Mitsubishi Outlander Plug In,2015,NA
+Mitsubishi Outlander Plug In,2016,NA
+Mitsubishi Outlander Plug In,2017,NA
+Mitsubishi Outlander Plug In,2018,4166
+Mitsubishi Outlander Plug In,2019,2810
+Hyundai Ioniq Plug-In,2011,NA
+Hyundai Ioniq Plug-In,2012,NA
+Hyundai Ioniq Plug-In,2013,NA
+Hyundai Ioniq Plug-In,2014,NA
+Hyundai Ioniq Plug-In,2015,NA
+Hyundai Ioniq Plug-In,2016,NA
+Hyundai Ioniq Plug-In,2017,NA
+Hyundai Ioniq Plug-In,2018,1590
+Hyundai Ioniq Plug-In,2019,1765
+Kia Niro Plug In,2011,NA
+Kia Niro Plug In,2012,NA
+Kia Niro Plug In,2013,NA
+Kia Niro Plug In,2014,NA
+Kia Niro Plug In,2015,NA
+Kia Niro Plug In,2016,NA
+Kia Niro Plug In,2017,NA
+Kia Niro Plug In,2018,3389
+Kia Niro Plug In,2019,4051
+Mercedes GLC 350e Hybrid,2011,NA
+Mercedes GLC 350e Hybrid,2012,NA
+Mercedes GLC 350e Hybrid,2013,NA
+Mercedes GLC 350e Hybrid,2014,NA
+Mercedes GLC 350e Hybrid,2015,NA
+Mercedes GLC 350e Hybrid,2016,NA
+Mercedes GLC 350e Hybrid,2017,NA
+Mercedes GLC 350e Hybrid,2018,567
+Mercedes GLC 350e Hybrid,2019,2459
+Jaguar I-Pace,2011,NA
+Jaguar I-Pace,2012,NA
+Jaguar I-Pace,2013,NA
+Jaguar I-Pace,2014,NA
+Jaguar I-Pace,2015,NA
+Jaguar I-Pace,2016,NA
+Jaguar I-Pace,2017,NA
+Jaguar I-Pace,2018,393
+Jaguar I-Pace,2019,2594
+Hyundai Kona Electric,2011,NA
+Hyundai Kona Electric,2012,NA
+Hyundai Kona Electric,2013,NA
+Hyundai Kona Electric,2014,NA
+Hyundai Kona Electric,2015,NA
+Hyundai Kona Electric,2016,NA
+Hyundai Kona Electric,2017,NA
+Hyundai Kona Electric,2018,NA
+Hyundai Kona Electric,2019,1721
+Subaru Crosstrek Hybrid,2011,NA
+Subaru Crosstrek Hybrid,2012,NA
+Subaru Crosstrek Hybrid,2013,NA
+Subaru Crosstrek Hybrid,2014,NA
+Subaru Crosstrek Hybrid,2015,NA
+Subaru Crosstrek Hybrid,2016,NA
+Subaru Crosstrek Hybrid,2017,NA
+Subaru Crosstrek Hybrid,2018,NA
+Subaru Crosstrek Hybrid,2019,880
+Audi e-tron,2011,NA
+Audi e-tron,2012,NA
+Audi e-tron,2013,NA
+Audi e-tron,2014,NA
+Audi e-tron,2015,NA
+Audi e-tron,2016,NA
+Audi e-tron,2017,NA
+Audi e-tron,2018,NA
+Audi e-tron,2019,5369
+Kia Niro EV,2011,NA
+Kia Niro EV,2012,NA
+Kia Niro EV,2013,NA
+Kia Niro EV,2014,NA
+Kia Niro EV,2015,NA
+Kia Niro EV,2016,NA
+Kia Niro EV,2017,NA
+Kia Niro EV,2018,NA
+Kia Niro EV,2019,1562
