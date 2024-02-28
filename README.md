@@ -5,11 +5,11 @@
 This is a repository where I will post all of my side projects. I am currently working with iPython/Jupyter notebooks and focusing on showcasing <a href = 'https://github.com/mzakariaz/Projects/tree/main/mathematics/Python'>Pure Mathematics</a> and <a href = 'https://github.com/mzakariaz/Projects/tree/main/quantitative_finance/Python'>Quantitative Finance</a> projects using Python. Other projects, namely using R, are also included (see the `datacamp` folder <a href = 'https://github.com/mzakariaz/Projects/tree/main/datacamp'>here</a>). Here are a few of the projects I have produced at present:
 
 - [Numerical Integral Estimator](https://github.com/mzakariaz/Projects/blob/main/mathematics/Python/numerical_integral_estimator.ipynb)
-- [Function Root Estimator](https://github.com/mzakariaz/Projects/blob/main/mathematics/Python/function_root_estimator.ipynb')
-- [Portfolio Optimizer](https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/portfolio_optimizer.ipynb')
-- [Malliavin Calculus for Option Greeks Estimation]('https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/malliavin_calculus_for_option_greeks_estimation.ipynb')
+- [Function Root Estimator](https://github.com/mzakariaz/Projects/blob/main/mathematics/Python/function_root_estimator.ipynb)
+- [Portfolio Optimizer](https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/portfolio_optimizer.ipynb)
+- [Malliavin Calculus for Option Greeks Estimation](https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/malliavin_calculus_for_option_greeks_estimation.ipynb)
 
-To get a sense of what you can expect, Here is a Python code snippet you can try out on a `.ipynb` file (I recommend using Python 3).
+To get a sense of what you can expect, Here is a Python code snippet you can try out on a `.ipynb` file (I recommend using Python 3). The full project can be found [here](https://github.com/mzakariaz/Projects/blob/main/quantitative_finance/Python/malliavin_calculus_for_option_greeks_estimation.ipynb)
 
 ```Python
 import time as tm
