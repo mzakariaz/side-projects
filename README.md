@@ -7,9 +7,9 @@ This is a repository where I will post all of my side projects. I am currently w
 - [Numerical Integral Estimator](https://github.com/mzakariaz/side-projects/blob/main/mathematics/python/numerical-integral-estimator.ipynb)
 - [Function Root Estimator](https://github.com/mzakariaz/side-projects/blob/main/mathematics/python/function-root-estimator.ipynb)
 - [Portfolio Optimizer](https://github.com/mzakariaz/side-projects/blob/main/quantitative-finance/python/portfolio-optimizer.ipynb)
-- [Malliavin Calculus for Option Greeks Estimation](https://github.com/mzakariaz/side-projects/blob/main/quantitative-finance/python/malliavin_calculus_for_option_greeks_estimation.ipynb)
+- [Malliavin Calculus for Option Greeks Estimation](https://github.com/mzakariaz/side-projects/blob/main/quantitative-finance/python/malliavin-calculus-for-option-greeks-estimation.ipynb)
 
-To get a sense of what you can expect, Here is a Python code snippet you can try out on a `.ipynb` file (I recommend using Python 3). The full project can be found [here](https://github.com/mzakariaz/side-projects/blob/main/quantitative-finance/python/malliavin_calculus_for_option_greeks_estimation.ipynb).
+To get a sense of what you can expect, Here is a Python code snippet you can try out on a `.ipynb` file (I recommend using Python 3). The full project can be found [here](https://github.com/mzakariaz/side-projects/blob/main/quantitative-finance/python/malliavin-calculus-for-option-greeks-estimation.ipynb).
 
 ```Python
 import time as tm
