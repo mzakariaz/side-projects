@@ -1,6 +1,6 @@
-# **Projects**
+# **side-projects**
 
-**Welcome to my *Projects* repository on GitHub!** :wave:
+**Welcome to my *side-projects* repository on GitHub!** :wave:
 
 This is a repository where I will post all of my side projects. I am currently working with iPython/Jupyter notebooks and focusing on showcasing [Pure Mathematics](https://github.com/mzakariaz/side-projects/tree/main/mathematics/python) and [Quantitative Finance](https://github.com/mzakariaz/side-projects/tree/main/quantitative-finance/python) projects using Python. Other projects, namely using R and SQL, are also included (see the `datacamp` folder [here](https://github.com/mzakariaz/side-projects/tree/main/datacamp)). Here are a few of the projects I have produced at present:
 
