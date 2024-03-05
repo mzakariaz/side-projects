@@ -1,4 +1,4 @@
-# **side-projects**
+# **🌆 side-projects**
 
 **Welcome to my *side-projects* repository on GitHub!** :wave:
 
