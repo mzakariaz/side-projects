@@ -6,7 +6,7 @@ In this folder, you will find all of the projects which I have successfully comp
 - <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width=15 height=15> </img> MySQL
 - <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width=15 height=15> </img> PostgreSQL
 
-You can find my DataCamp portfolio below:
+If you wish to learn more about my activity on DataCamp, you can find my DataCamp portfolio below:
 
 [![Static Badge](https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&labelColor=white&style=plastic&logoColor=03EF62)](https://www.datacamp.com/portfolio/mzakariazerrouki)
 
