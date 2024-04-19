@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="styles.css">
+    <title>
+      Survey Form
+    </title>
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">This is a survey to help monitor user activity. Please fill it out as accurately as you can.</p>
+    <form id="survey-form">
+      <label id="name-label" for="name">Full name: <input id="name" type="text" placeholder="John Doe" required/></label>
+      <label id="email-label" for="email">Email: <input id="email" type="email" placeholder="johndoe@gmail.com" required/><label/>
+      <label id="number-label" for="number">Age: <input id="number" type="number" pattern="\d+" min="0" max="120" placeholder="25"/></label>
+      <label for="dropdown">What is your favourite primary color? <select id="dropdown" name="colors">
+        <option value="select-one" disabled selected hidden>(Select One)</option>
+        <option value="red">Red</option>
+        <option value="green">Green</option>
+        <option value="blue">Blue</option>
+      </select></label>
+      Are you prepared?
+      <label for="radio-1"><input id="radio-1" type="radio" name="ready" value="yes">Yes</label>
+      <label for="radio-2"><input id="radio-2" type="radio" name="ready" value="no">No</label>
+      <label>Why do you want to join?<textarea placeholder = "Start here..."></textarea></label>
+        What is your degree of interest/preparation? Select all that apply.
+        <label><input type="checkbox" name="preparation" value="full" class="check"/> I am fully prepared.</label>
+      <label><input type="checkbox" name="preparation" value="partial" class="check"/> I am partially prepared.</label>
+      <label><input type="checkbox" name="preparation" value="unsure" class="check"/> I am unsure, but willing to learn nonetheless.</label>
+      <button id="submit">Submit</button>
+    </form>
+  </body>
+</html>

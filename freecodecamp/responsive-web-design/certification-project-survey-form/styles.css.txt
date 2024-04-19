@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+}
+
+h1, p {
+  text-align: center;
+}
+
+label, textarea {
+  display: block;
+  width: auto;
+  margin: 5% 0;
+}
+
+#radio-1, #radio-2 {
+  display: inline;
+}
