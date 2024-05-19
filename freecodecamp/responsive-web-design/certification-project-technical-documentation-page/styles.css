@@ -9,3 +9,7 @@
     font-family: Helvetica;
   }
 }
+
+code, samp {
+  font-family: monospace !important;
+}
