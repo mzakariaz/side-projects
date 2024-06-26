@@ -11,4 +11,5 @@ This project is a code-along of the video [*ROC and AUC in R*](https://www.youtu
 ## **Credits**
 All of the sources (e.g. videos, images, articles) used to help build this project are cited in the links below:
 - https://www.youtube.com/watch?v=qcvAqAH60Yw
+- https://github.com/StatQuest/roc_and_auc_demo/blob/master/roc_and_auc_demo.R
 - https://www.geeksforgeeks.org/how-to-get-the-path-of-current-script-in-r/
