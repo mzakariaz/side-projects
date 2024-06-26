@@ -3,7 +3,7 @@ library(ggplot2)
 library(cowplot)
 library(rstudioapi)
 
-# Get the file path of the current script:
+# Get the file path of the current script
 current_directory_name <- dirname(getSourceEditorContext()$path)
 
 # Create a matrix for the dataset
