@@ -102,7 +102,7 @@ logistic <- glm(hd ~ ., data = data, family = "binomial")
 # Print the summary of this logistic regression model
 print(summary(logistic))
 
-# Calculate the McFadden's Pseudo R^2 and the p-value for this logistic regression model
+# Calculate the McFadden's Pseudo R^2 and p-value for the logistic regression
 ll_null <- logistic$null.deviance / -2
 ll_proposed <- logistic$deviance / -2
 mcfadden_pseudo_r_squared <- (ll_null - ll_proposed) / ll_null
@@ -121,11 +121,19 @@ predicted_data <- data.frame(
 predicted_data <- predicted_data[
   order(predicted_data$probability.of.hd, decreasing = FALSE),
 ]
-predicted_data$rank <- 1:nrow(predicted_data)
-ggplot(data = predicted_data, aes(x = rank, y = probability.of.hd)) +
-geom_point(aes(color = hd), alpha = 1, shape = 4, stroke = 2) +
-xlab("Index") +
-ylab("Predicted probability of getting heart disease")
+
+n <- nrow(predicted_data)
+predicted_data$rank <- 1:n
+
+logistic_regression_plot <- ggplot(
+  data = predicted_data,
+  aes(x = rank, y = probability.of.hd)
+) +
+  geom_point(aes(color = hd), alpha = 1, shape = 4, stroke = 2) +
+  xlab("Index") +
+  ylab("Predicted probability of getting heart disease")
+
+print(logistic_regression_plot)
 
 # Save the plot as a .png image
 file_name <- "/heart_disease_probabilities.png"

@@ -6,7 +6,7 @@
 - [**Credits**](#credits)
 
 ## **Introduction**
-This project is a code-along of the video [*Logistic Regression in R, Clearly Explained!!!!*](https://www.youtube.com/watch?v=C4N3_XJJ-jU), published by StatQuest on Tuesday 18 December 2018. The code is found in the `logistic-regression-in-r-clearly-explained.r` file, located in the current directory.
+This project is a code-along of the video [*Logistic Regression in R, Clearly Explained!!!!*](https://www.youtube.com/watch?v=C4N3_XJJ-jU), published by StatQuest on Thursday 26 July 2018. The code is found in the `logistic-regression-in-r-clearly-explained.r` file, located in the current directory.
 
 ## **Credits**
 All of the sources (e.g. videos, images, articles) used to help build this project are cited in the links below:
