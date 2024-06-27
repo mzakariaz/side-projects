@@ -1,3 +1,7 @@
+# CREDIT:
+# StatQuest: PCA in R (published on Monday 27 November 2017)
+# URL: https://www.youtube.com/watch?v=0Jp4gsfOLMs
+
 # Load packages
 library(ggplot2)
 library(cowplot)

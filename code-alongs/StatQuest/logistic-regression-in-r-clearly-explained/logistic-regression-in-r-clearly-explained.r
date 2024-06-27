@@ -1,3 +1,8 @@
+# CREDIT:
+# Logistic Regression in R, Clearly Explained!!!!
+# (published on Thursday 26 July 2018)
+# URL: https://www.youtube.com/watch?v=C4N3_XJJ-jU
+
 # Load packages
 library(ggplot2)
 library(cowplot)

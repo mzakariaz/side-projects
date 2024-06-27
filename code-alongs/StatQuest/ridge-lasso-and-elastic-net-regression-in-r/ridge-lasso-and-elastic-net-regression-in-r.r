@@ -1,3 +1,8 @@
+# CREDIT:
+# Ridge, Lasso and Elastic-Net Regression in R
+# (published on Tuesday 23 October 2018)
+# URL: https://www.youtube.com/watch?v=ctmNq7FgbvI
+
 # Load packages
 library(ggplot2)
 library(cowplot)
