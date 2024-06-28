@@ -24,9 +24,9 @@ rownames(data_matrix) <- paste("gene", 1:100, sep = "")
 
 # Define the entries of the matrix
 for (i in 1:100) {
-  wt_values = rpois(5, lambda = sample(x = 10:1000, size = 1))
-  ko_values = rpois(5, lambda = sample(x = 10:1000, size = 1))
-  data_matrix[i,] <- c(wt_values, ko_values)
+  wt_values <- rpois(5, lambda = sample(x = 10:1000, size = 1))
+  ko_values <- rpois(5, lambda = sample(x = 10:1000, size = 1))
+  data_matrix[i, ] <- c(wt_values, ko_values)
 }
 
 # Print the head of the matrix
@@ -98,7 +98,7 @@ ggsave(filename = file_path_3)
 
 
 # Compute and display the loading scores of the Principal Component Analysis
-loading_scores <- pca$rotation[,1]
+loading_scores <- pca$rotation[, 1]
 gene_scores <- abs(loading_scores)
 gene_scores_ranked <- sort(gene_scores, decreasing = TRUE)
 top_10_genes <- names(gene_scores_ranked[1:10])
